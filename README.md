@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![חתול](https://user-images.githubusercontent.com/72066777/99318238-02999580-2870-11eb-9544-be4e1b1f611d.gif)
+
+
 <!--
 **NoaTzur/NoaTzur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 -->
